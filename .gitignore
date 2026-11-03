@@ -1,0 +1,19 @@
+
+# Compiled Java files
+*.class
+out/
+
+# VS Code temporary files
+.vscode/
+
+# Logs
+*.log
+
+# Environment and secret files
+.env
+.env.*
+!.env.example
+
+# OS files
+.DS_Store
+Thumbs.db
