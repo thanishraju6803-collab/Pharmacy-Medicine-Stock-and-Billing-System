@@ -151,3 +151,18 @@ This project was developed as a Java Programming Micro Project to demonstrate th
 
 **Thanish Raju**
 
+
+
+## Application Screenshots
+
+### 1. Medicine Inventory Management
+
+The inventory interface allows users to add, view, update, delete, and search medicines, as well as monitor low-stock alerts.
+
+![Medicine Inventory Management](screenshots/inventory.png)
+
+### 2. Medicine Billing Management
+
+The billing interface allows users to select medicines, manage the billing cart, calculate totals, and complete sales transactions.
+
+![Medicine Billing Management](screenshots/billing.png)
